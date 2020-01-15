@@ -1,0 +1,11 @@
+{
+    "name": "sooraj/csv-exporter",
+    "description": "CSV Exporter",
+    "authors": [
+        {
+            "name": "Sooraj",
+            "email": "soorajnraju@gmail.com"
+        }
+    ],
+    "require": {}
+}
