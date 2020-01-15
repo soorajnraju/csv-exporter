@@ -2,7 +2,7 @@
 /**
 * Author: Sooraj N Raju
 */
-class CSV_Exporter{
+class Csv_Exporter{
 	
 	protected $file_name = null;
 	protected $data = null;
